@@ -3,10 +3,9 @@ const Web3 = require('web3');
 const compiledFactory = require('./build/CampaignFactory.json');
 
 const provider = new HDWalletProvider(
-  'mango debris pole certain head celery mass citizen useful prize very fashion',
+  'call glow acoustic vintage front ring trade assist shuffle mimic volume reject',
   'https://rinkeby.infura.io/orDImgKRzwNrVCDrAk5Q'
 );
-
 const web3 = new Web3(provider);
 
 const deploy = async () => {
